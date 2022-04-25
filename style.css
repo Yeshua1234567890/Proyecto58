@@ -1,0 +1,19 @@
+html
+{
+  background-color:background: rgb(11,228,135);
+background: linear-gradient(90deg, rgba(11,228,135,1) 25%, rgba(155,15,207,1) 50%, rgba(0,212,255,1) 100%);;
+}
+img 
+{
+  border-radius:50%;
+    width:150px;
+}
+h4{
+  padding:20px;
+  font-size:18;
+  text-aling:center;
+}
+body
+{
+  text-aling:center;
+}
